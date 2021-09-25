@@ -1,1 +1,9 @@
-
+.otherPage {
+  font-size: 200%;
+}
+a {
+  color: #8000FF;
+}
+.EA:hover {
+  cursor: text;
+}
